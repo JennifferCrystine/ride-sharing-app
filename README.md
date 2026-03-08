@@ -58,7 +58,7 @@ High-level services depend on abstractions like IFareStrategy and IRideMatchingS
 
 Class diagram showing relationships between Ride, RideMatchingService, RideService, IFareStrategy implementations, Observer pattern components for Passenger and Driver, and vehicle type hierarchy:
 
-![Class diagram showing the ride-sharing system architecture with Ride as central component, connected to RideService, RideMatchingService, multiple fare strategy implementations, and Observer pattern participants](docs/ride-diagram.png)
+![Class diagram showing the ride-sharing system architecture with Ride as central component, connected to RideService, RideMatchingService, multiple fare strategy implementations, and Observer pattern participants](docs/ride.png)
 
 ## Possible Improvements
 

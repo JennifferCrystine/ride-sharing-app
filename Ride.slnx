@@ -1,5 +1,5 @@
 <Solution>
   <Project Path="Ride.Application/Ride.Application.csproj" Id="3886fea5-afea-4acf-9919-153214c7dfea" />
   <Project Path="Ride.Domain/Ride.Domain.csproj" Id="bff47404-de48-4663-b4a5-7254399e707a" />
-  <Project Path="Ride/Ride.csproj" />
+  <Project Path="Ride.Infrastucture/Ride.Infrastucture.csproj" Id="2d52fbea-64c6-461e-aae2-ebb7213d8c1f" />
 </Solution>

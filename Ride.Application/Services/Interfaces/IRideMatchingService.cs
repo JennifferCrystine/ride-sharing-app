@@ -1,9 +1,10 @@
-﻿using Ride.Domain.Entities;
+﻿using Ride.Application.Strategies.Interfaces;
+using Ride.Domain.Entities;
 
 namespace Ride.Application.Services.Interfaces
 {
     public interface IRideMatchingService
     {
-        public Driver FindClosestAvailableDriver(Location passengerLocation);
+        public Driver FindClosestAvailableDriver(Location passengerLocation, IRideMatchingStrategy matchingStrategy);
     }
 }
